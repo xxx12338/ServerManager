@@ -1,4 +1,4 @@
-&nbsp;&nbsp;<img id="aimg_uy0MD" width="48" height="48" file="http://i2.fuimg.com/504241/eb96a674ab82b02c.jpg" border="0" alt="" src="http://i2.fuimg.com/504241/eb96a674ab82b02c.jpg" lazyloaded="true" style="" _load="1"> <font face="Trebuchet MS"><font style="font-size: 48px;">PrismaillyaSMG v1.1</font></font><br>
+&nbsp;&nbsp;<img id="aimg_uy0MD" width="48" height="48" file="http://i2.fuimg.com/504241/eb96a674ab82b02c.jpg" border="0" alt="" src="http://i2.fuimg.com/504241/eb96a674ab82b02c.jpg" lazyloaded="true" style="" _load="1"> <font face="Trebuchet MS"><h2 style="display: inline;">PrismaillyaSMG v1.1</h2></font><br>
 <div align="right"><font face="Trebuchet MS"><font size="3">—— 化繁为简，回到起点，更简单，更实用，更懂你的开服器</font></font></div><br>
 <br>
 <div align="left"><font size="3"><strong>前言</strong></font></div><br>
@@ -77,7 +77,6 @@
 <div align="left"><font size="3"><strong>软件下载</strong></font></div><br>
 <div align="left">感谢你的使用，你的下载是对我的支持！</div><br>
 <div align="left"><div align="right"><div align="left">&nbsp;&nbsp;下载地址：<a href="https://prisma-illya.github.io/ServerManager/PrismaillyaServerManager.1.0.exe" target="_blank">https://prisma-illya.github.io/ServerManager/PrismaillyaServerManager.1.0.exe</a></div></div></div><div align="left">&nbsp;&nbsp;官方博客：<a href="https://www.prismaillya.com/" target="_blank">https://www.prismaillya.com/</a><br>
-&nbsp;&nbsp;项目开源：<a href="https://github.com/Prisma-illya/ServerManager/" target="_blank">https://github.com/Prisma-illya/ServerManager/</a><br>
 &nbsp;&nbsp;哈勃分析：<a href="https://habo.qq.com/file/showdetail?md5=e6b7ae821e31e85080f145fbad2a5362" target="_blank">https://habo.qq.com/file/showdetail?md5=e6b7ae821e31e85080f145fbad2a5362</a></div><div align="left"><br>
 注意事项：因为程序使用 Bat to Exe 转换，同时使用 UPX 压缩，可能会有杀毒软件认为是病毒，请选择允许运行并加入白名单即可。<br>
 程序结束后无任何驻留进程。<br>
