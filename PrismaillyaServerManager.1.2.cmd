@@ -1,8 +1,8 @@
 ::===========================================================::
 ::                                                           ::
-::  Prismaillya 服务器管理系统 1.1                           ::
+::  Prismaillya 服务器管理系统 1.2                           ::
 ::                                                           ::
-::  Prismaillya Server Manager 1.1                           ::
+::  Prismaillya Server Manager 1.2                           ::
 ::                                                           ::
 ::  CopyRight (C) 2012-2017 Prismaillya All Right Reserved.  ::
 ::                                                           ::
