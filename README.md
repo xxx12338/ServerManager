@@ -1,4 +1,4 @@
-&nbsp;&nbsp;<img id="aimg_uy0MD" width="48" height="48" file="http://i2.fuimg.com/504241/eb96a674ab82b02c.jpg" border="0" alt="" src="http://i2.fuimg.com/504241/eb96a674ab82b02c.jpg" lazyloaded="true" style="" _load="1"> <font face="Trebuchet MS"><font size="7">PrismaillyaSMG v1.1</h2></font><br>
+&nbsp;&nbsp;<img id="aimg_uy0MD" width="48" height="48" file="http://i2.fuimg.com/504241/eb96a674ab82b02c.jpg" border="0" alt="" src="http://i2.fuimg.com/504241/eb96a674ab82b02c.jpg" lazyloaded="true" style="" _load="1"> <font face="Trebuchet MS"><font size="7">PrismaillyaSMG v1.2</h2></font><br>
 <div align="right"><font face="Trebuchet MS"><font size="3">—— 化繁为简，回到起点，更简单，更实用，更懂你的开服器</font></font></div><br>
 <br>
 <div align="left"><font size="3"><strong>前言</strong></font></div><br>
