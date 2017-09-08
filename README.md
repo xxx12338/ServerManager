@@ -1,33 +1,33 @@
-&nbsp;&nbsp;<img id="aimg_uy0MD" width="48" height="48" file="http://i2.fuimg.com/504241/eb96a674ab82b02c.jpg" border="0" alt="" src="http://i2.fuimg.com/504241/eb96a674ab82b02c.jpg" lazyloaded="true" style="" _load="1"> <font face="Trebuchet MS"><font size="7">PrismaillyaSMG v1.2</h2></font><br>
+&nbsp;&nbsp;<img width="48" height="48" src="http://i2.fuimg.com/504241/eb96a674ab82b02c.jpg"> <font face="Trebuchet MS"><font size="7">PrismaillyaSMG v1.2</font><br>
 <div align="right"><font face="Trebuchet MS"><font size="3">—— 化繁为简，回到起点，更简单，更实用，更懂你的开服器</font></font></div><br>
 <br>
-<div align="left"><font size="3"><strong>前言</strong></font></div><br>
-<div align="left">之所以我要开发这款开服器的原因，很简单。经过我的长期观察，现在论坛里各种高端开服器层出不穷。</div><br>
-<div align="left">从简单的易语言设计的开服器，到高端的网页开服，例如PHPMC3，MCServer8，太多太多。</div><br>
-<div align="left">而许多人下载这些开服器，无非就是觉得好玩，新奇，但是新鲜劲儿一过，就没什么意思了。</div><br>
-<div align="left">又有多少人会用这种图形化界面管理服务器呢？可能也就只有小白服主会用吧，毕竟懂点技术的服主都会直接命令行开服。</div><br>
-<div align="left">这时候图形管理就显得鸡肋了。首先，运行就要好一会儿，其次，安装也是个问题，运行时占用的资源就不说了，这么多的缺点下来，我觉得图形没什么实际作用。</div><br>
+<font size="3"><strong>前言</strong></font><br>
+之所以我要开发这款开服器的原因，很简单。经过我的长期观察，现在论坛里各种高端开服器层出不穷。<br>
+从简单的易语言设计的开服器，到高端的网页开服，例如PHPMC3，MCServer8，太多太多。<br>
+而许多人下载这些开服器，无非就是觉得好玩，新奇，但是新鲜劲儿一过，就没什么意思了。<br>
+又有多少人会用这种图形化界面管理服务器呢？可能也就只有小白服主会用吧，毕竟懂点技术的服主都会直接命令行开服。<br>
+这时候图形管理就显得鸡肋了。首先，运行就要好一会儿，其次，安装也是个问题，运行时占用的资源就不说了，这么多的缺点下来，我觉得图形没什么实际作用。<br>
 <br>
-<div align="left"><font size="3"><strong>介绍</strong></font></div><br>
-<div align="left">设计这个开服器的初衷就是: 化繁为简，回归最初的功能。</div><br>
-<div align="left">没错，你在这个开服器见不到任何绚丽的界面，你甚至连彩色都看不到，全部的东西就只有一个黑白的控制台。</div><br>
-<div align="left">主程序大小相当精简，只有 <strong>2.12MB</strong>。</div><br>
-<div align="left">虽然简约，但不简单。麻雀虽小五脏俱全，这个开服器的功能也同样强大。</div><br>
-<div align="left">经过测试，空载运行状态占用内存 <strong>7368KB</strong>，其原因是加载了一个 <strong>curl</strong> 模块。</div><br>
+<font size="3"><strong>介绍</strong></font><br>
+设计这个开服器的初衷就是: 化繁为简，回归最初的功能。<br>
+没错，你在这个开服器见不到任何绚丽的界面，你甚至连彩色都看不到，全部的东西就只有一个黑白的控制台。<br>
+主程序大小相当精简，只有 <strong>2.12MB</strong>。<br>
+虽然简约，但不简单。麻雀虽小五脏俱全，这个开服器的功能也同样强大。<br>
+经过测试，空载运行状态占用内存 <strong>7368KB</strong>，其原因是加载了一个 <strong>curl</strong> 模块。<br>
 <br>
-<div align="left"><font size="3"><strong>功能</strong></font></div><br>
-<div align="left"><strong>PrismaillyaSMG </strong>目前支持的功能有:</div><br>
+<font size="3"><strong>功能</strong></font><br>
+<strong>PrismaillyaSMG </strong>目前支持的功能有:<br>
 <br>
-<div align="left">&nbsp;&nbsp;1.全自动下载服务端</div><br>
-<div align="left">&nbsp;&nbsp;2.自动下载服务端核心对应依赖文件并解压</div><br>
-<div align="left">&nbsp;&nbsp;3.全自动下载 <strong>Java</strong> 和软件自身支持库</div><br>
-<div align="left">&nbsp;&nbsp;4.插件资源广场支持一键下载插件</div><br>
-<div align="left">&nbsp;&nbsp;5.服务器配置一件修改</div><br>
-<div align="left">&nbsp;&nbsp;6.服务器占用资源动态监控</div><br>
-<div align="left">&nbsp;&nbsp;7.崩溃自动重启</div><br>
-<div align="left">&nbsp;&nbsp;8.远程启动服务端</div><br>
-<div align="left">&nbsp;&nbsp;9.地图备份功能</div><br>
-<div align="left">&nbsp;&nbsp;10.强制结束进程</div><br>
+&nbsp;&nbsp;1.全自动下载服务端<br>
+&nbsp;&nbsp;2.自动下载服务端核心对应依赖文件并解压<br>
+&nbsp;&nbsp;3.全自动下载 <strong>Java</strong> 和软件自身支持库<br>
+&nbsp;&nbsp;4.插件资源广场支持一键下载插件<br>
+&nbsp;&nbsp;5.服务器配置一件修改<br>
+&nbsp;&nbsp;6.服务器占用资源动态监控<br>
+&nbsp;&nbsp;7.崩溃自动重启<br>
+&nbsp;&nbsp;8.远程启动服务端<br>
+&nbsp;&nbsp;9.地图备份功能<br>
+&nbsp;&nbsp;10.强制结束进程<br>
 换句话说，你在一台全新系统的电脑里，即使什么软件，Java都没装，只要有网络，你就能用这个开服器一键开服，所有东西都会自动下载完成。<br>
 你根本不需要自己动手下载任何运行环境或者服务端。<br>
 <br>
