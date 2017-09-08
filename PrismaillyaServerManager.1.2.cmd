@@ -1,8 +1,8 @@
 ::===========================================================::
 ::                                                           ::
-::  Prismaillya 服务器管理系统 1.2                           ::
+::  Prismaillya 服务器管理系统 1.1                           ::
 ::                                                           ::
-::  Prismaillya Server Manager 1.2                           ::
+::  Prismaillya Server Manager 1.1                           ::
 ::                                                           ::
 ::  CopyRight (C) 2012-2017 Prismaillya All Right Reserved.  ::
 ::                                                           ::
@@ -62,6 +62,7 @@ if exist "7z.exe" del "7z.exe"
 if exist "curl.exe" del "curl.exe"
 if exist "7z.dll" del "7z.dll"
 if exist "libcurl.dll" del "libcurl.dll"
+if exist "curl-ca-bundle.crt" del "curl-ca-bundle.crt"
 cd Config/
 if not exist "%WORKDIR%\Config\Version.ini" cd ../&goto install
 if not exist "%WORKDIR%\Config\Ram.ini" echo.1024>Ram.ini
