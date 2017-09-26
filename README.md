@@ -76,7 +76,7 @@
 <br>
 <div align="left"><font size="3"><strong>软件下载</strong></font></div><br>
 <div align="left">感谢你的使用，你的下载是对我的支持！</div><br>
-<div align="left"><div align="right"><div align="left">&nbsp;&nbsp;下载地址：<a href="https://prisma-illya.github.io/ServerManager/PrismaillyaServerManager.1.0.exe" target="_blank">https://prisma-illya.github.io/ServerManager/PrismaillyaServerManager.1.0.exe</a></div></div></div><div align="left">&nbsp;&nbsp;官方博客：<a href="https://www.prismaillya.com/" target="_blank">https://www.prismaillya.com/</a><br>
+<div align="left"><div align="right"><div align="left">&nbsp;&nbsp;下载地址：<a href="https://github.com/Prisma-illya/ServerManager/releases" target="_blank">https://github.com/Prisma-illya/ServerManager/releases</a></div></div></div><div align="left">&nbsp;&nbsp;官方博客：<a href="https://www.prismaillya.com/" target="_blank">https://www.prismaillya.com/</a><br>
 &nbsp;&nbsp;哈勃分析：<a href="https://habo.qq.com/file/showdetail?md5=e6b7ae821e31e85080f145fbad2a5362" target="_blank">https://habo.qq.com/file/showdetail?md5=e6b7ae821e31e85080f145fbad2a5362</a></div><div align="left"><br>
 注意事项：因为程序使用 Bat to Exe 转换，同时使用 UPX 压缩，可能会有杀毒软件认为是病毒，请选择允许运行并加入白名单即可。<br>
 程序结束后无任何驻留进程。<br>
